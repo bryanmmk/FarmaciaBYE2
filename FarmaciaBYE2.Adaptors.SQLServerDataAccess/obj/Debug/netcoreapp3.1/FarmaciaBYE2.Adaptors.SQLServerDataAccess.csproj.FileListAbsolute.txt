@@ -1,0 +1,16 @@
+C:\Users\Bryan\source\repos\FarmaciaBYE2\FarmaciaBYE2.Adaptors.SQLServerDataAccess\bin\Debug\netcoreapp3.1\FarmaciaBYE2.Adaptors.SQLServerDataAccess.deps.json
+C:\Users\Bryan\source\repos\FarmaciaBYE2\FarmaciaBYE2.Adaptors.SQLServerDataAccess\bin\Debug\netcoreapp3.1\FarmaciaBYE2.Adaptors.SQLServerDataAccess.runtimeconfig.json
+C:\Users\Bryan\source\repos\FarmaciaBYE2\FarmaciaBYE2.Adaptors.SQLServerDataAccess\bin\Debug\netcoreapp3.1\FarmaciaBYE2.Adaptors.SQLServerDataAccess.runtimeconfig.dev.json
+C:\Users\Bryan\source\repos\FarmaciaBYE2\FarmaciaBYE2.Adaptors.SQLServerDataAccess\bin\Debug\netcoreapp3.1\FarmaciaBYE2.Adaptors.SQLServerDataAccess.dll
+C:\Users\Bryan\source\repos\FarmaciaBYE2\FarmaciaBYE2.Adaptors.SQLServerDataAccess\bin\Debug\netcoreapp3.1\FarmaciaBYE2.Adaptors.SQLServerDataAccess.pdb
+C:\Users\Bryan\source\repos\FarmaciaBYE2\FarmaciaBYE2.Adaptors.SQLServerDataAccess\bin\Debug\netcoreapp3.1\FarmaciaBYE2.Core.Domain.dll
+C:\Users\Bryan\source\repos\FarmaciaBYE2\FarmaciaBYE2.Adaptors.SQLServerDataAccess\bin\Debug\netcoreapp3.1\FarmaciaBYE2.Core.Domain.pdb
+C:\Users\Bryan\source\repos\FarmaciaBYE2\FarmaciaBYE2.Adaptors.SQLServerDataAccess\obj\Debug\netcoreapp3.1\FarmaciaBYE2.Adaptors.SQLServerDataAccess.csproj.AssemblyReference.cache
+C:\Users\Bryan\source\repos\FarmaciaBYE2\FarmaciaBYE2.Adaptors.SQLServerDataAccess\obj\Debug\netcoreapp3.1\FarmaciaBYE2.Adaptors.SQLServerDataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bryan\source\repos\FarmaciaBYE2\FarmaciaBYE2.Adaptors.SQLServerDataAccess\obj\Debug\netcoreapp3.1\FarmaciaBYE2.Adaptors.SQLServerDataAccess.AssemblyInfoInputs.cache
+C:\Users\Bryan\source\repos\FarmaciaBYE2\FarmaciaBYE2.Adaptors.SQLServerDataAccess\obj\Debug\netcoreapp3.1\FarmaciaBYE2.Adaptors.SQLServerDataAccess.AssemblyInfo.cs
+C:\Users\Bryan\source\repos\FarmaciaBYE2\FarmaciaBYE2.Adaptors.SQLServerDataAccess\obj\Debug\netcoreapp3.1\FarmaciaBYE2.Adaptors.SQLServerDataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Bryan\source\repos\FarmaciaBYE2\FarmaciaBYE2.Adaptors.SQLServerDataAccess\obj\Debug\netcoreapp3.1\FarmaciaBYE2.Adaptors.SQLServerDataAccess.csproj.CopyComplete
+C:\Users\Bryan\source\repos\FarmaciaBYE2\FarmaciaBYE2.Adaptors.SQLServerDataAccess\obj\Debug\netcoreapp3.1\FarmaciaBYE2.Adaptors.SQLServerDataAccess.dll
+C:\Users\Bryan\source\repos\FarmaciaBYE2\FarmaciaBYE2.Adaptors.SQLServerDataAccess\obj\Debug\netcoreapp3.1\FarmaciaBYE2.Adaptors.SQLServerDataAccess.pdb
+C:\Users\Bryan\source\repos\FarmaciaBYE2\FarmaciaBYE2.Adaptors.SQLServerDataAccess\obj\Debug\netcoreapp3.1\FarmaciaBYE2.Adaptors.SQLServerDataAccess.genruntimeconfig.cache
